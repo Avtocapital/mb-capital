@@ -7633,6 +7633,26 @@ ul.wrapper_nav_main:hover::after {
     margin-right: 10px;
   }
 }
+
+.dealers {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.dealers__phone {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: sans-serif;
+  margin-left: 19px;
+}
+
+.dealers__time {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: sans-serif;
+  margin-left: 19px;
+}
 /*# sourceMappingURL=mobile.css.map */
 /* End */
 /* /local/templates/slonworks/libs/bootstrap/bootstrap-reboot.css?16938086544500 */
