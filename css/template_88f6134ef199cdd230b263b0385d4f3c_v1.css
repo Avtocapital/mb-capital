@@ -2967,8 +2967,8 @@ button:focus {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100%;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #000;
+  color: #fff;
   overflow: hidden;
 }
 
