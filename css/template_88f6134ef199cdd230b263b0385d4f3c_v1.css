@@ -2697,7 +2697,8 @@ button:focus {
 }
 
 .dropdown__image {
-  height: 102px;
+  width: 320px;
+  height: 150px;
   background: center / cover no-repeat;
   margin-bottom: 20px;
 }
